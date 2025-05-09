@@ -21,8 +21,6 @@ A high-performance, fully responsive landing page built using **HTML5** and **Ta
 
 ---
 
----
-
 ## 📂 Folder Structure
 
 ```
