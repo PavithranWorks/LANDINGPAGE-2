@@ -1,7 +1,3 @@
-Sure! Here's your complete and properly formatted **README.md in plain text** using **markdown syntax with proper headings and hashtags** — ideal for GitHub:
-
----
-
 # 🚀 Tailwind CSS Landing Page
 
 A high-performance, fully responsive landing page built using **HTML5** and **Tailwind CSS**. It is designed for modern web applications, portfolios, SaaS products, and more.
