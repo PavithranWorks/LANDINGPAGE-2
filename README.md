@@ -21,10 +21,6 @@ A high-performance, fully responsive landing page built using **HTML5** and **Ta
 
 ---
 
-## 🎯 Preview
-
-🌐 **Live Demo**: [https://tailwindcsslandingpagee.netlify.app](https://tailwindcsslandingpagee.netlify.app)
-
 ---
 
 ## 📂 Folder Structure
@@ -63,7 +59,7 @@ It is optimized for mobile, tablet, and desktop views with a responsive layout a
 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/pavithranworks/Tailwind-css-landing-Page.git
+git clone https://github.com/PavithranWorks/LANDINGPAGE-2
 ```
 
 2️⃣ Open the Project
